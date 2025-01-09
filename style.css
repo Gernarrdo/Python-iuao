@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11px;
+    background-color: rgb(49, 6, 238);
+    color: #020202;
+    border: #08fd00;
+    text-decoration-color: crimson;
+}
+
+h1 {
+    color: rgb(231, 15, 231);
+}
